@@ -4,7 +4,7 @@
 
 ---
 
-![Visualization](Images/web-page-gif.gif" Web Page Walkthrough")
+![Visualization](Images/web-page-gif.gif "Web Page Walkthrough")
 
 ---
 
